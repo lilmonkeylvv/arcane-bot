@@ -1,4 +1,4 @@
-Officiālais arcane.lv discord servera bots
+Officiālais Arcane.lv discord servera bots
 
 
 
